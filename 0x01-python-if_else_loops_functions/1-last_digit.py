@@ -12,4 +12,3 @@ elif last_digit > 5 and last_digit % 10 != 0:
     print(f"{merge} and is greater than 5")
 else:
     print(f"{merge} and is less than 6 and not 0")
-    
